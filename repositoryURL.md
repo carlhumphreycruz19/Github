@@ -1,1 +1,0 @@
-https://github.com/the-tech-academy/developers.git
